@@ -1,4 +1,4 @@
 # Cyclone
 Social network
 
-![Screenshot](face.png)
+![Screenshot](Screenshot/1.png)
