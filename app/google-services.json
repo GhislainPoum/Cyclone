@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "403144544393",
+    "firebase_url": "https://cyclone-b6140.firebaseio.com",
+    "project_id": "cyclone-b6140",
+    "storage_bucket": "cyclone-b6140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403144544393:android:10a7848137a4958e",
+        "android_client_info": {
+          "package_name": "com.poum.community"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403144544393-eehdbrt6pog7djborif6j3shdte4monk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poum.community",
+            "certificate_hash": "3bd8b1d86ed87a0e3b520648250b82bec4f6f8b7"
+          }
+        },
+        {
+          "client_id": "403144544393-k56qc6r93gfi8ssgmtuact92gvv0mifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMT-v40kts0XTBZ-mYdOvSAJdM7C4I4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403144544393-k56qc6r93gfi8ssgmtuact92gvv0mifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403144544393:android:e7523020d8f37064eaf658",
+        "android_client_info": {
+          "package_name": "com.poum.cyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403144544393-3rvgrfvn663ongmpoaubl3bqbe4cs2ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poum.cyclone",
+            "certificate_hash": "3bd8b1d86ed87a0e3b520648250b82bec4f6f8b7"
+          }
+        },
+        {
+          "client_id": "403144544393-k56qc6r93gfi8ssgmtuact92gvv0mifl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMT-v40kts0XTBZ-mYdOvSAJdM7C4I4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403144544393-k56qc6r93gfi8ssgmtuact92gvv0mifl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
